@@ -1,5 +1,4 @@
 # sistema-solar.html
-Este repositorio es una practica del Curso en Fundamentos de programación Web
 <!DOCTYPE html>
 <html lang="es">
 <head>
