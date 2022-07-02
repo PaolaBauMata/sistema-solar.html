@@ -1,13 +1,15 @@
-sistema_solar.html
+#sistema_solar.html
 <!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-   </head>
+    <title>Sistema Solar</title>
+</head>
 <body style="background-color: black; color: white;">
 <h1 style="text-align: center; font-size: 40px; color: palevioletred">Planetas del Sistema Solar</h1>
+</ul>
 <li><a href="#mercurio" style="color: yellow">Mercurio</a></li>
 <li><a href="#venus" style="color: yellow">Venus</a></li>
 <li><a href="#tierra" style="color: yellow">Tierra</a></li>
@@ -16,6 +18,7 @@ sistema_solar.html
 <li><a href="#saturno" style="color: yellow">Saturno</a></li>
 <li><a href="#urano" style="color: yellow">Urano</a></li>
 <li><a href="#neptuno" style="color: yellow">Neptuno</a></li>
+</ul>
 <h2 id="Mercurio" style="color: indigo; font-size: 30px;">Mercurio</h2>
 <img src="Planetas del  Sistema solar/Mercurio.jpg" alt="mercurio">
 <h2 id="Venus" style="color:pink; font-size: 30px;">Venus</h2>
