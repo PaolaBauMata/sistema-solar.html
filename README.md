@@ -1,12 +1,11 @@
-# sistema-solar.html
+Sistema Solar 
 <!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sistema Solar</title>
-</head>
+   </head>
 <body style="background-color: black; color: white;">
 <h1 style="text-align: center; font-size: 40px; color: palevioletred">Planetas del Sistema Solar</h1>
 </ul>
