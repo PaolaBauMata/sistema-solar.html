@@ -1,4 +1,4 @@
-Sistema Solar 
+sistema_solar.html
 <!DOCTYPE html>
 <html lang="es">
 <head>
